@@ -1,0 +1,2 @@
+# Fake-news-detection
+Fake news is a real menace as it can quickly spread panic among the public. It can also affect major world events, as was seen in the US Presidential Elections. With the flood of news arising from online content generators, as well as various formats and genres, it is impossible to verify news using traditional fact checkers and vetting. To tackle this problem of quick and accurate classification of news as fake or authentic, we provide a computational tool.
